@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+.sites*/
+.codex/
+.agents/
+qa/
+art/
+*.log
+*.tar.gz
+*.tgz
+*.zip
